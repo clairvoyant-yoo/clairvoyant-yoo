@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/jiwonee22/github-readme-stats)
+
+
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://showyourdesire.tistory.com/)
+
+
 <!--
 **jiwonee22/jiwonee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
